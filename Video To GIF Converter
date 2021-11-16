@@ -1,3 +1,6 @@
+#THIS IS PYHTON PROJECT
+#DONE BY MYTH LIVE
+
 from moviepy.editor import VideoFileClip
 from tkinter.filedialog import *
 
